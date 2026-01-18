@@ -1,0 +1,10 @@
+name = "momath"
+version = "0.1.0"
+defaultTargets = ["momath"]
+
+[[lean_lib]]
+name = "Momath"
+
+[[lean_exe]]
+name = "momath"
+root = "Main"
